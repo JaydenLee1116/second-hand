@@ -10,6 +10,32 @@
 
 동네를 기준으로 중고 물품을 올리고 거래할 수 있는 당근마켓 클론 프로젝트
 
+# 🔨 프로젝트 데모
+
+## 메인 페이지
+
+<img src="https://github.com/codesquad-members-2023/second-hand/assets/86241737/6ab46fd1-b86c-4ef3-be36-df87010a322f" width="250" />
+
+## 동네 설정 페이지
+
+<img src="https://github.com/codesquad-members-2023/second-hand/assets/86241737/fc9ccc61-d263-469d-8068-32c48d22bf71" width="350" />
+
+## 카테고리 페이지
+
+<img src="https://github.com/codesquad-members-2023/second-hand/assets/86241737/11dd0fe4-ae78-4346-9936-7313ca649a6b" width="250" />
+
+## 상품 등록 및 상품 카테고리 페이지
+
+<img src="https://github.com/codesquad-members-2023/second-hand/assets/86241737/644af465-b42a-4d52-b937-473acb1641b8" width="450" />
+
+## 판매 목록 페이지
+
+<img src="https://github.com/codesquad-members-2023/second-hand/assets/86241737/16331445-4b7c-4f55-8e64-f7c5056240aa" width="250" />
+
+## 관심 목록 페이지
+
+<img src="https://github.com/codesquad-members-2023/second-hand/assets/86241737/c11fe8df-368a-4290-9f0e-c960f7d0b72f" width="250" />
+
 # 🔨 프로젝트 주요 기능
 
 - 카카오 로그인을 통해 로그인할 수 있습니다.
